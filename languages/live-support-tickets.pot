@@ -1,0 +1,304 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Live Support Tickets & Contact Forms\n"
+"POT-Creation-Date: 2024-03-06 18:29+0200\n"
+"PO-Revision-Date: 2024-03-06 18:19+0200\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: live-support-tickets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: server/vendor\n"
+
+#: inc/options.php:14 inc/options.php:153
+msgid "Settings"
+msgstr ""
+
+#: inc/options.php:64
+msgid "Add Plugins"
+msgstr ""
+
+#: inc/options.php:73 inc/shortcodes.php:57
+msgid "Contact Support"
+msgstr ""
+
+#: inc/options.php:99
+msgid "Conversations"
+msgstr ""
+
+#: inc/options.php:108
+msgid "Contacts"
+msgstr ""
+
+#: inc/options.php:117
+msgid "New Conversation"
+msgstr ""
+
+#: inc/options.php:126
+msgid "Invite"
+msgstr ""
+
+#: inc/options.php:135
+msgid "Form Invite"
+msgstr ""
+
+#: inc/options.php:144 inc/options.php:2846
+msgid "Setup Pages"
+msgstr ""
+
+#: inc/options.php:163
+msgid "Documentation"
+msgstr ""
+
+#: inc/options.php:184 inc/options.php:1783 inc/shortcodes.php:67
+msgid "My Conversations"
+msgstr ""
+
+#: inc/options.php:194
+msgid "Support Conversations"
+msgstr ""
+
+#: inc/options.php:962 inc/options.php:1332 inc/options.php:1468
+#: inc/options.php:1681
+msgid "&laquo;"
+msgstr ""
+
+#: inc/options.php:963 inc/options.php:1333 inc/options.php:1469
+#: inc/options.php:1682
+msgid "&raquo;"
+msgstr ""
+
+#: inc/options.php:1327
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/options.php:1782 template-support.php:25
+msgid "Support"
+msgstr ""
+
+#: inc/options.php:1784
+msgid "Support Terms"
+msgstr ""
+
+#: inc/options.php:2764
+msgid "Contact Notifications"
+msgstr ""
+
+#: inc/server.php:81 inc/server.php:576 inc/shortcodes.php:67
+msgid "New"
+msgstr ""
+
+#: inc/server.php:82 inc/server.php:578
+msgid "Answered"
+msgstr ""
+
+#: inc/server.php:83 inc/server.php:579
+msgid "Closed"
+msgstr ""
+
+#: inc/server.php:84 inc/server.php:580
+msgid "Public"
+msgstr ""
+
+#: inc/server.php:85 inc/server.php:581
+msgid "Locked"
+msgstr ""
+
+#: inc/server.php:86 inc/server.php:577
+msgid "Pending"
+msgstr ""
+
+#: inc/server.php:121
+msgid "Never"
+msgstr ""
+
+#: inc/server.php:558
+msgid "Open Conversation"
+msgstr ""
+
+#: inc/server.php:559
+msgid "Add Contact"
+msgstr ""
+
+#: inc/server.php:560
+msgid "Remove Contact"
+msgstr ""
+
+#: inc/server.php:561
+msgid "Contact Name"
+msgstr ""
+
+#: inc/server.php:562 live-support-tickets.php:271
+msgid "Contact"
+msgstr ""
+
+#: inc/server.php:563
+msgid "Contact Type"
+msgstr ""
+
+#: inc/server.php:564
+msgid "Email"
+msgstr ""
+
+#: inc/server.php:565
+msgid "Contact Role"
+msgstr ""
+
+#: inc/server.php:566
+msgid "Upload"
+msgstr ""
+
+#: inc/server.php:567
+msgid "Insert Recording"
+msgstr ""
+
+#: inc/server.php:570
+msgid "Send"
+msgstr ""
+
+#: inc/server.php:571
+msgid "Send Message"
+msgstr ""
+
+#: inc/server.php:572
+msgid "Write your message here"
+msgstr ""
+
+#: inc/server.php:573
+msgid "Emoticons"
+msgstr ""
+
+#: inc/server.php:574
+msgid "Nevermind"
+msgstr ""
+
+#: inc/server.php:575
+msgid "All"
+msgstr ""
+
+#: inc/server.php:582
+msgid "Status"
+msgstr ""
+
+#: inc/server.php:583
+msgid "Created"
+msgstr ""
+
+#: inc/server.php:584
+msgid "Updated"
+msgstr ""
+
+#: inc/server.php:617
+msgid "My Language"
+msgstr ""
+
+#: inc/server.php:618
+msgid ""
+"Language you will be using in conversations and target for translations."
+msgstr ""
+
+#: inc/server.php:1232
+msgid "Contact fields updated."
+msgstr ""
+
+#: inc/server.php:1863
+msgid "Contact participated with messages in this conversation. Cannot remove."
+msgstr ""
+
+#: inc/server.php:1870
+msgid "Contact was removed from conversation."
+msgstr ""
+
+#: inc/server.php:1943
+msgid "Contact was added to conversation."
+msgstr ""
+
+#: inc/server.php:2452
+msgid "This contact was already confirmed."
+msgstr ""
+
+#: inc/server.php:2578
+msgid ""
+"Please check your Inbox for confirmation email with link to proceed further. "
+"Check Spam folder if not found. Register with a different email if your "
+"current mail server does not receive notification for any reason."
+msgstr ""
+
+#: inc/shortcodes.php:89 inc/shortcodes.php:160
+msgid "Login to Access!"
+msgstr ""
+
+#: inc/shortcodes.php:89 inc/shortcodes.php:160
+msgid "Login"
+msgstr ""
+
+#: inc/shortcodes.php:135
+msgid "Conversation Price"
+msgstr ""
+
+#: inc/shortcodes.php:140
+msgid "Message Price"
+msgstr ""
+
+#: inc/shortcodes.php:144
+msgid "Set Prices"
+msgstr ""
+
+#: inc/shortcodes.php:148
+msgid "Set 0 to use defaults."
+msgstr ""
+
+#: live-support-tickets.php:257
+msgid "Report"
+msgstr ""
+
+#: live-support-tickets.php:439
+msgid "Contact Creator"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Live Support Tickets & Contact Forms"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://videolivesupport.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>Live Support Tickets, Contact Forms, CRM</strong> provides site "
+"support desk & messaging features for backend/frontend, combining ticket "
+"management with live chat interface in unified conversation interface. "
+"Custom contact forms enable collecting custom data (fields) per per contact "
+"or conversation. Supports advanced features like registration forms for "
+"registering accounts.<a href='admin.php?page=vw-support&tab=pages'>Setup</a> "
+"| <a href='admin.php?page=vw-support-conversations'>Conversations</a> | <a "
+"href='https://consult.videowhisper.com/'>Consult VideoWhisper</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VideoWhisper.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://videowhisper.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "VideoWhisper Support - Full Page, without Site Template"
+msgstr ""
